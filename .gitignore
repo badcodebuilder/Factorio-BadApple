@@ -1,0 +1,10 @@
+*
+
+!blueprint
+!blueprint/*
+!img
+!img/*
+!.gitignore
+!*.py
+!*.lua
+!*.md
